@@ -4,8 +4,8 @@
         <packagename><![CDATA[Telegram  profile field]]></packagename>
         <packagedescription><![CDATA[Adds an user profile for the Telegram messenger service.]]></packagedescription>
         <packagedescription language="de"><![CDATA[Fügt ein Benutzerprofilfeld für den Telegram-Messenger hinzu.]]></packagedescription>
-        <version>1.0.0</version>
-        <date>2018-01-06</date>
+        <version>1.0.1</version>
+        <date>2018-01-10</date>
     </packageinformation>
 	
     <authorinformation>
