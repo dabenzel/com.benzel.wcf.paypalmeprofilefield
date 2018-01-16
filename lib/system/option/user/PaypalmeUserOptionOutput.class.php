@@ -6,7 +6,7 @@ use wcf\util\StringUtil;
 /**
  * @author      Benzel
  * @license     GNU Lesser General Public License <http://opensource.org/licenses/lgpl-license.php>
- * @copyright   2017
+ * @copyright   2018
  * @package     com.jacboy.wcf.paypalmeprofilefield
  */
 class PaypalmeUserOptionOutput implements IUserOptionOutput {
