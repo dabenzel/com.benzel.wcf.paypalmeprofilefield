@@ -1,2 +1,2 @@
-# com.jacboy.wcf.telegramprofilefield
-Adds an user profile for the Telegram messenger service.
+# com.benzel.wcf.paypalmeprofilefield
+Adds an user profile for the PayPal.me service.

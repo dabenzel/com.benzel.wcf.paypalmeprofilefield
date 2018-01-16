@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="en" languagename="English" countrycode="gb">
     <category name="wcf.user.option">
-        <item name="wcf.user.option.telegram">Telegram</item>
-        <item name="wcf.user.option.telegram.description">Your Telegram messenger username.</item>
+        <item name="wcf.user.option.paypalme">PayPal.me</item>
+        <item name="wcf.user.option.paypalme.description">Your PayPal.me username.</item>
     </category>
 </language>

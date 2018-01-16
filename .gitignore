@@ -2,3 +2,5 @@
 /lib/.DS_Store
 /lib/system/.DS_Store
 /lib/system/option/.DS_Store
+.idea/
+com.benzel.wcf.paypalmeprofilefield.iml

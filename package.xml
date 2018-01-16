@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package name="com.jacboy.wcf.telegramprofilefield" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/package.xsd">
+<package name="com.benzel.wcf.paypalmeprofilefield" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/package.xsd">
     <packageinformation>
-        <packagename><![CDATA[Telegram  profile field]]></packagename>
-        <packagedescription><![CDATA[Adds an user profile for the Telegram messenger service.]]></packagedescription>
-        <packagedescription language="de"><![CDATA[Fügt ein Benutzerprofilfeld für den Telegram-Messenger hinzu.]]></packagedescription>
-        <version>2.0.0</version>
-        <date>2018-01-15</date>
+        <packagename><![CDATA[PayPal.me  profile field]]></packagename>
+        <packagedescription><![CDATA[Adds an user profile for the PayPal.me service.]]></packagedescription>
+        <packagedescription language="de"><![CDATA[Fügt ein Benutzerprofilfeld für PayPal.me hinzu.]]></packagedescription>
+        <version>1.0.0</version>
+        <date>2018-01-16</date>
     </packageinformation>
 	
     <authorinformation>
-        <author>Jay</author>
-        <authorurl>https://jakoblicina.com/</authorurl>
+        <author>benzel</author>
+        <authorurl>https://witt-it.de/</authorurl>
     </authorinformation>
 	
 	<requiredpackages>
@@ -23,15 +23,4 @@
          <instruction type="language">language/*.xml</instruction>
     </instructions>
 
-    <instructions type="update" fromversion="1.0.1">
-        <instruction type="file">files.tar</instruction> 
-        <instruction type="language">language/*.xml</instruction> 
-        <instruction type="userOption">userOption.xml</instruction>  
-    </instructions>
-
-    <instructions type="update" fromversion="1.0.0">
-        <instruction type="file">files.tar</instruction> 
-        <instruction type="language">language/*.xml</instruction> 
-        <instruction type="userOption">userOption.xml</instruction>  
-    </instructions>
 </package>
