@@ -4,12 +4,12 @@ use wcf\data\user\option\UserOption;
 use wcf\data\user\User;
 use wcf\util\StringUtil;
 /**
- * @author      Jay
+ * @author      Benzel
  * @license     GNU Lesser General Public License <http://opensource.org/licenses/lgpl-license.php>
  * @copyright   2017
- * @package     com.jacboy.wcf.telegramprofilefield
+ * @package     com.jacboy.wcf.paypalmeprofilefield
  */
-class TelegramUserOptionOutput implements IUserOptionOutput {
+class PaypalmeUserOptionOutput implements IUserOptionOutput {
     	public function getOutput(User $user, UserOption $option, $value) {
 		if (empty($value)) return '';
 		
